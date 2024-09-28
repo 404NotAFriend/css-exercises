@@ -1,0 +1,28 @@
+/* Classes */
+
+.n1and5 {
+    background-color:rgb(239, 181, 190);
+    font-family:Verdana,"DejaVu Sans",sans-serif;
+    
+
+}
+
+.font-size {
+   font-size:24px;
+}
+
+/* IDS */
+
+#n2{
+
+    color:rgb(0, 0, 255);
+    font-size:36px;
+
+}
+
+#n4{
+
+    background-color:rgb(144, 238, 144);
+    font-weight:bold;
+}
+
